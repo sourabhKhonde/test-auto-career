@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75.114" height="75.114" viewBox="0 0 75.114 75.114">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="0.85" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e66713"/>
+      <stop offset="1" stop-color="#730a73"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_6607" data-name="Group 6607" transform="translate(-440 -429)">
+    <path id="Path_15379" data-name="Path 15379" d="M6.829,0H68.286a6.829,6.829,0,0,1,6.829,6.829V68.286a6.829,6.829,0,0,1-6.829,6.829H6.829A6.829,6.829,0,0,1,0,68.286V6.829A6.829,6.829,0,0,1,6.829,0Z" transform="translate(440 429)" fill="url(#linear-gradient)"/>
+    <text id="KKR_Motors" data-name="KKR 
+Motors" transform="translate(478 463)" fill="#fff" font-size="15" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-18.487" y="0">KKR </tspan><tspan x="-26.872" y="19">Motors</tspan></text>
+  </g>
+</svg>
